@@ -1,13 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
+
 Hi, I'm Max Vinícius, a passionate self-taught Full Stack developer and a freelance software engineer from Brazil.
 
 Currently focused on website development with React and mobile applications with React Native.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 Any freelance work? Do reach, [email](mailto:app.maxvinicius@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB">
@@ -20,8 +18,9 @@ Currently focused on website development with React and mobile applications with
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white" />
 </p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxFullStack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxFullStack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
   
 <h3>Where to find me</h3>
+
 <p><a href="https://www.linkedin.com/in/max-vinicius-ferreira/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
