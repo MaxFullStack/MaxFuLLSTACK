@@ -1,8 +1,4 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/max-vinicius-ferreira/">
-  <img align="left" alt="Max Vinícius - LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 <br />
 
 Hi, I'm Max Vinícius, a passionate self-taught Full Stack developer and a freelance software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
