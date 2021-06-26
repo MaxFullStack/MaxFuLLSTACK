@@ -3,7 +3,7 @@
 Hi, I'm Max Vinícius, a passionate self-taught Full Stack developer and a freelance software engineer from Brazil.
 Currently focused on website development with React and mobile applications with React Native.
 
-<img align="right" alt="GIF" src="https://github.com/MaxFullStack/MaxFullStack/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/MaxFullStack/MaxFullStack/blob/main/code.gif" width="500" height="320" />
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB">
