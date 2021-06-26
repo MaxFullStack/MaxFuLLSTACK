@@ -17,6 +17,7 @@ Currently focused on website development with React and mobile applications with
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=heroku&logo=amazon-aws" />
+   <img alt="Material Ui" src="https://img.shields.io/badge/-MaterialUi-232F3E?style=flat-square&logo=heroku&logo=amazon-aws" />
   
 <h3>Where to find me</h3>
 <p><a href="https://www.linkedin.com/in/max-vinicius-ferreira/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
