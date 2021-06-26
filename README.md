@@ -5,7 +5,6 @@ Currently focused on website development with React and mobile applications with
 
 <img align="right" alt="GIF" src="https://github.com/MaxFullStack/MaxFullStack/blob/main/code.gif" width="500" height="320" />
 
-
 <p>
   <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB">
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?&logo=nestjs&logoColor=white" />
