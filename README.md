@@ -21,4 +21,5 @@ Currently focused on website development with React and mobile applications with
 <h3>Where to find me</h3>
 
 <p><a href="https://www.linkedin.com/in/max-vinicius-ferreira/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/10895713/max-vinicius" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=Stack-Overflow&logoColor=white"></a>
 </p>
