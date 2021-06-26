@@ -1,10 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
-Hi, I'm Max Vinícius, a passionate self-taught Full Stack developer and a freelance software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Max Vinícius, a passionate self-taught Full Stack developer and a freelance software engineer from Brazil. Passionate about new technologies, I consider myself a self-taught person. I am always looking to evolve. I take great care in the experience, architecture, and code quality of the things I build.
 
-Graduated in digital games, postgraduate in mobile application development at IESB University Center, located in Brasília - Brazil.
 Currently focused on website development with React and mobile applications with React Native.
-Passionate about new technologies, I consider myself a self-taught person. I am always looking to evolve.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
