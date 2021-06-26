@@ -10,10 +10,10 @@ Currently focused on website development with React and mobile applications with
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?&logo=nestjs&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" />
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=heroku&logo=amazon-aws" />
+  <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&logo=amazon-aws" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white" />
-  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white" />
+  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white" />
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxFullStack&title_color=ffffff&hide=html&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
