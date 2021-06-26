@@ -23,7 +23,7 @@ Currently focused on website development with React and mobile applications with
   <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
 </p>
 
-<!-- GitHub Stats: https://github.com/MaxFullStack/github-readme-stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxFullStack&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
   
 <h3>Where to find me</h3>
 <p><a href="https://www.linkedin.com/in/max-vinicius-ferreira/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
