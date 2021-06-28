@@ -16,7 +16,7 @@ Currently focused on website development with React and mobile applications with
   <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white" />
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxFullStack&title_color=ffffff&hide=html&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxFullStack&title_color=ffffff&hide=html&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" />
   
 <h3>Where to find me</h3>
 
