@@ -1,7 +1,7 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-Hi, I'm Max Vinícius, a passionate self-taught Full Stack developer and a freelance software engineer from Brazil.
+<p>
+  Hi, I'm Max Vinícius, a passionate self-taught Full Stack developer and a freelance software engineer from Brazil.
 Currently focused on website development with React and mobile applications with React Native.
+</p>
 
 <img align="right" alt="GIF" src="https://github.com/MaxFullStack/MaxFullStack/blob/main/code.gif" width="500" height="320" />
 
